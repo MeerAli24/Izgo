@@ -1,4 +1,4 @@
-package com.ty.Izgo.entity;
+package com.ty.Izgo.Entity;
 
 public class User {
 
