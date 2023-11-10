@@ -1,4 +1,4 @@
-package com.ty.Izgo.dao;
+package com.ty.Izgo.Dao;
 
 public class AddressDao {
 
