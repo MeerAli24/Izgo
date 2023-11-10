@@ -1,4 +1,4 @@
-package com.ty.Izgo.entity;
+package com.ty.Izgo.Entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
