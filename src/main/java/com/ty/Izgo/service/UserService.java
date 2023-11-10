@@ -1,4 +1,4 @@
-package com.ty.Izgo.service;
+package com.ty.Izgo.Service;
 
 public class UserService {
 
