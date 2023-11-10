@@ -1,5 +1,5 @@
 package com.ty.Izgo.dao;
 
-public class UserDao {
+public class AddressDao {
 
 }
